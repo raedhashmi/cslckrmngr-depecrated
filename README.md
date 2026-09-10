@@ -2,6 +2,9 @@
 
 cslckrmngr is the administrative control interface for the cslckr malware family. It serves as the primary dashboard for operators to send commands to [cslckrwbcl client](https://github.com/raedhashmi/cslckrwbcl) through the [cslckr server](https://github.com/raedhashmi/cslckr)
 
+## NOTE
+> This project has been depecrated. cslckrmngr now comes built-in with the [server](https://github.com/raedhashmi/cslckrsrvr)
+
 ## Overview
 
 The manager facilitates high-level administration by:
